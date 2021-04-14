@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90710280474",
+    "project_id": "pittorista-app",
+    "storage_bucket": "pittorista-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90710280474:android:4fcc944fc824f05bc744a3",
+        "android_client_info": {
+          "package_name": "com.example.pittorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90710280474-o9brrjob957ir93n48t2bk5k5scrsrl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pittorista",
+            "certificate_hash": "b3e18b8b5c28908fdd86339681fbb9c67ec5db68"
+          }
+        },
+        {
+          "client_id": "90710280474-uu9kjh218ijc1o3tirhaf05bbgfifpoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6NHdLUD68joVkF3gR840xLKsA3rpAcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90710280474-uu9kjh218ijc1o3tirhaf05bbgfifpoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
