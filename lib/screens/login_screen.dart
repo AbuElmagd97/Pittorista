@@ -50,7 +50,7 @@ class LoginScreen extends StatelessWidget {
                   text: 'Sign in with Google',
                   textColor: Colors.black87,
                   color: Colors.white,
-                  onPressed: () {},
+                  onPressed: auth.signInWithGoogle,
                 ),
                 SizedBox(height: 8.0),
                 SocialSignInButton(
