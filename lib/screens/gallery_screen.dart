@@ -44,7 +44,8 @@ class _GalleryScreenState extends State<GalleryScreen> {
             child: Text(
               'What painting style are\nyou looking for?',
               style: textStyle1.copyWith(
-                  fontSize: 35, color: color5, fontWeight: FontWeight.bold),
+                fontFamily: 'BrushPains',
+                  fontSize: 20, color: color5),
             ),
           ),
           Stack(
